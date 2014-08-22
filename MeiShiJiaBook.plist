@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://192.168.20.103/ota-meishijia/MeiShiJiaBook.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://192.168.20.103/ota-meishijia/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://192.168.20.103/ota-meishijia/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yzh.SaveMoney</string>
+				<key>bundle-version</key>
+				<string>1.2.00</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>MeiShiJia-1.2.00</string>
+				<key>title</key>
+				<string>MeiShiJia</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
