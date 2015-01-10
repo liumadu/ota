@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.20.103/ota-meishijia/MeiShiJiaBook.ipa</string>
+					<string>http://ota.lujufei.com/BaMaRemind.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.20.103/ota-meishijia/icon.png</string>
+					<string>http://ota.lujufei.com/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.20.103/ota-meishijia/icon.png</string>
+					<string>http://ota.lujufei.com/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.yzh.SaveMoney</string>
 				<key>bundle-version</key>
-				<string>1.2.00</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>MeiShiJia-1.2.00</string>
+				<string>BaMaRemind-1.0</string>
 				<key>title</key>
-				<string>MeiShiJia</string>
+				<string>BaMaRemind</string>
 			</dict>
 		</dict>
 	</array>
